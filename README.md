@@ -58,8 +58,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 
 #### Bizness
-- 📎 [My Resume/CV](https://github.com/coderboysobuj/coderboysobuj/blob/master/resumes/resume%20v1.0.pdf)
-- 📧 jisankhansobuj@gmail.com
+- 📎 [My Resume/CV](https://github.com/coderboysobuj/coderboysobuj/blob/master/resumes/CV.pdf)
+- 📧 coderboysobuj@gmail.com
 
 
 #### Profile Visits 
